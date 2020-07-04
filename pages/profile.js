@@ -9,7 +9,7 @@ import {
   Description,
   Socials,
   Icon,
-} from "./styles/_profileStyle";
+} from "../styles/_profileStyle";
 
 export default function Profile() {
   return (

@@ -7,7 +7,7 @@ import {
   Title,
   Loading,
   Progress,
-} from "./styles/_indexStyle";
+} from "../styles/_indexStyle";
 
 export default function Home() {
   useEffect(() => {
